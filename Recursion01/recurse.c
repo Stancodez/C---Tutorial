@@ -1,5 +1,4 @@
 #include <stdio.h>
-int main(void);
 
 /**
  * main - function that prints the interger from 0 to nb
